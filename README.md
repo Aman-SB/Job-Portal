@@ -1,4 +1,4 @@
-```Job Portal Frontend Application```
+**Job Portal Frontend Application**
 This is a job portal frontend application built using React, Vite, Supabase, and Clerk for authentication. The app allows users to register, log in, and search for jobs with ease.
 
 Features
