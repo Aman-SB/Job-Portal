@@ -1,7 +1,7 @@
-**Job Portal Frontend Application**
-This is a job portal frontend application built using React, Vite, Supabase, and Clerk for authentication. The app allows users to register, log in, and search for jobs with ease.
+# Job Portal Frontend Application
+#### This is a job portal frontend application built using React, Vite, Supabase, and Clerk for authentication. The app allows users to register, log in, and search for jobs with ease.
 
-Features
+## Features
 User Authentication: Secure user sign-up and login with Clerk.
 Job Listings: Browse and search job listings from the database.
 Job Filters: Filter jobs by categories like location, type, and salary.
@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/job-portal-frontend.git
+git clone https://github.com/Aman-SB/Job-Portal.git
 cd job-portal-frontend
 Install the dependencies:
 
@@ -50,8 +50,3 @@ Browse Jobs: Navigate through the job listings and use filters to refine your se
 Apply for Jobs: View job details and proceed to apply directly through the platform.
 Contributions
 Feel free to fork this repository and submit pull requests to improve the project. Any feedback is welcome!
-
-License
-This project is licensed under the MIT License.
-
-
